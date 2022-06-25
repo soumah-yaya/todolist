@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "27e2c40938b",
+      "username": "admin",
+      "email": "admin@qq.com",
+      "password": "123456"
+    }
+  ],
+  "task": [
+    {
+      "id": "612ff9a38e3",
+      "title": "lunch",
+      "isCompleted": false
+    },
+    {
+      "id": "938f03ba50f",
+      "title": "dinner at 8pm",
+      "isCompleted": false
+    }
+  ]
+}
